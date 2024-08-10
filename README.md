@@ -9,7 +9,7 @@
 ### Machine Learning & AI:
 - **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, Scikit-Learn, Hugging Face
 - **Data Visualization:** Matplotlib, Seaborn
-- **Other Tools:** Pandas, NumPy
+- **Other Tools:** Pandas, NumPy, PyQt
 
 ### Programming Languages:
 - **Python**: My go-to language for most projects
@@ -18,7 +18,7 @@
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Oomer Sheriff](https://www.linkedin.com/in/oomer-sheriff)
+- **LinkedIn:** [Oomer Sheriff](https://www.linkedin.com/in/oomer-sheriff-a20682309/)
 - **Email:** oomersheriff@gmail.com
 
 ---

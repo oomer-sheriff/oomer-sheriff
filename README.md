@@ -1,5 +1,3 @@
-Here's a customized GitHub profile README for your profile:
-
 ---
 
 ```markdown

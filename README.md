@@ -19,7 +19,7 @@
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [Oomer Sheriff](https://www.linkedin.com/in/oomer-sheriff-a20682309/)
-- **Email:** oomersheriff@gmail.com
+- **Email:** oomersheriff12@gmail.com
 
 ---
 

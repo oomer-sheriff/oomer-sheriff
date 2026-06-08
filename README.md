@@ -1,30 +1,16 @@
-# Hi there, I'm Oomer Sheriff 👋
+# [Your Name]
+**Backend & AI Infrastructure Engineer**
 
-🎓 **Student | Aspiring AI & ML Engineer**
+I build highly concurrent backend systems and scalable AI infrastructure. My focus is on decoupling heavy ML inference workloads, writing asynchronous services, and optimizing databases to ensure system resilience under peak load.
 
----
+### 🛠 Stack
+* **Backend:** Python, FastAPI
+* **Infrastructure:** Kubernetes, Docker, AWS, GitHub Actions
+* **Async & Messaging:** RabbitMQ, Celery
+* **Databases:** PostgreSQL, Redis, Milvus (Vector DB)
 
-## 🚀 Skills & Technologies
-
-### Machine Learning & AI:
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, Scikit-Learn, Hugging Face
-- **Data Visualization:** Matplotlib, Seaborn
-- **Other Tools:** Pandas, NumPy, PyQt
-
-### Programming Languages:
-- **Python**: My go-to language for most projects
-
----
-
-## 📫 How to Reach Me
-
+### 📫 Contact
 - **LinkedIn:** [Oomer Sheriff](https://www.linkedin.com/in/oomer-sheriff-a20682309/)
 - **Email:** oomersheriff12@gmail.com
-
----
-
-### 🌱 Currently Learning
-- Advanced Deep Learning techniques
----
-
+- 
 Thanks for stopping by! 😊 Feel free to connect or collaborate on exciting projects.

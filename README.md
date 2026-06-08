@@ -1,4 +1,4 @@
-# [Your Name]
+# OOMER SHARIFF
 **Backend & AI Infrastructure Engineer**
 
 I build highly concurrent backend systems and scalable AI infrastructure. My focus is on decoupling heavy ML inference workloads, writing asynchronous services, and optimizing databases to ensure system resilience under peak load.
